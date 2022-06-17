@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10167" started-at="2022-05-07T18:23:42 IST" finished-at="2022-05-07T18:23:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10167" started-at="2022-05-07T18:23:42 IST" finished-at="2022-05-07T18:23:52 IST">
+      <class name="packone.MyExcelOperations">
+        <test-method status="PASS" signature="sampleOne()[pri:0, instance:packone.MyExcelOperations@5bb21b69]" name="sampleOne" duration-ms="10142" started-at="2022-05-07T18:23:42 IST" finished-at="2022-05-07T18:23:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleOne -->
+      </class> <!-- packone.MyExcelOperations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
